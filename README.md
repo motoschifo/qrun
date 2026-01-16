@@ -18,6 +18,10 @@ Developed as a modern alternative to the classic "Run dialog", I use it on Arch 
 * Desktop Environment: KDE Plasma (Wayland)
 * Framework: Qt6
 
+## Screenshots
+![Main UI](screenshots/screenshot-1.png)
+![Autocomplete](screenshots/screenshot-2.png)
+
 ## Dependencies
 To compile qrun, you need the following packages installed on your system:
 
